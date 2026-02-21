@@ -1,0 +1,21 @@
+{
+  "token": "token",
+  "guild_id": "guild id",
+  "spam_message": "@everyone https://discord.gg/xxxx",
+  "new_channels_name": "owned by xxxx",
+  "channel_count": xxx,
+  "proxies": [
+    {
+      "host": "host",
+      "port": port,
+      "username": "uname",
+      "password": "pass"
+    },
+    {
+      "host": "host",
+      "port": port,
+      "username": "uname",
+      "password": "pass"
+    }
+  ]
+}
